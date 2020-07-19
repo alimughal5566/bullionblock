@@ -1,0 +1,13 @@
+[14-Oct-2018 10:17:23 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; CMBase has a deprecated constructor in /home/bulliontech/public_html/form-data/php_wrappers/CMBase.php on line 67
+[14-Oct-2018 10:17:24 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; CampaignMonitor has a deprecated constructor in /home/bulliontech/public_html/form-data/php_wrappers/CMBase.php on line 552
+[30-Oct-2018 12:46:27 UTC] PHP Warning:  Illegal string offset 'val' in /home/bulliontech/public_html/form-data/formdata.php on line 4
+[30-Oct-2018 12:46:27 UTC] PHP Warning:  Illegal string offset 'val' in /home/bulliontech/public_html/form-data/formdata.php on line 13
+[30-Oct-2018 12:46:27 UTC] PHP Warning:  Illegal string offset 'val' in /home/bulliontech/public_html/form-data/formdata.php on line 14
+[30-Oct-2018 12:46:27 UTC] PHP Warning:  Illegal string offset 'label' in /home/bulliontech/public_html/form-data/formdata.php on line 18
+[30-Oct-2018 12:46:27 UTC] PHP Warning:  Illegal string offset 'val' in /home/bulliontech/public_html/form-data/formdata.php on line 18
+[30-Oct-2018 12:46:27 UTC] PHP Warning:  Illegal string offset 'label' in /home/bulliontech/public_html/form-data/formdata.php on line 18
+[30-Oct-2018 12:46:27 UTC] PHP Warning:  Illegal string offset 'val' in /home/bulliontech/public_html/form-data/formdata.php on line 18
+[30-Oct-2018 12:46:27 UTC] PHP Warning:  Illegal string offset 'label' in /home/bulliontech/public_html/form-data/formdata.php on line 18
+[30-Oct-2018 12:46:27 UTC] PHP Warning:  Illegal string offset 'val' in /home/bulliontech/public_html/form-data/formdata.php on line 18
+[04-Nov-2018 11:48:13 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; CMBase has a deprecated constructor in /home/bulliontech/public_html/form-data/php_wrappers/CMBase.php on line 67
+[04-Nov-2018 11:48:13 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; CampaignMonitor has a deprecated constructor in /home/bulliontech/public_html/form-data/php_wrappers/CMBase.php on line 552
